@@ -80,7 +80,7 @@ pageviews:
 # Note: Keep empty will follow the system prefer color by default,
 # and there will be a toggle to switch the theme between dark and light
 # on the bottom left of the sidebar.
-#
+#git
 # Available options:
 #
 #     light  - Use the light color scheme
