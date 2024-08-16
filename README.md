@@ -1,54 +1,50 @@
-# Chirpy Starter
+# e-Portfolio as an MSc Candidate in Enterprise IT Management at the University of Essex
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This e-portfolio reflects my learning journey throughout my MSc in Enterprise IT Management at the University of Essex Online (UK).
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Please view my [e-portfolio]([https](https://tobizeier.github.io/)).
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Module 1 - Launching into Enterprise IT Management
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+This module contains:
+* Unit 1: An Introduction to EIT
+* Unit 2: EIT vs. Shadow IT
+* Unit 3: EIT and Automation
+* Unit 4: A Comparative Study: Practical Automation Exercises using C and Python
+* Unit 5: Business Systems, Outsourcing and the Cloud
+* Unit 6: A Cost Comparison Between On-premise, Private and Public Cloud Hosting
+* Unit 7: Software Licensing: Commercial vs. Open Source
+* Unit 8: A Case Study: Investigating Business and Technical Innovations of Large Corporations and SMEs
+* Unit 9: Communications and Digital Transformation
+* Unit 10: The Digital Transformation Process
+* Unit 11: Future Trends
+* Unit 12: The Great Debate
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+You can find all my work for this module in this folder: [Module 1](https://github.com/TobiZeier/UoEO_MSc_EIM/tree/main/Module1_Launching_into_Enterprise_IT_Management)
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Module 2 - Security and Risk Management
 
-## Prerequisites
+This module contains:
+* Unit 1: An Introduction to Security and Risk Management
+* Unit 2: Users, Assessments and the Risk Management Process
+* Unit 3: Introduction to Threat Modelling and Management
+* Unit 4: Application of Threat Modelling and Management Techniques
+* Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise
+* Unit 6: The Practical Implications of Security and Risk Standards
+* Unit 7: An Introduction to the Concepts of Quantitative Risk Modelling
+* Unit 8: Implementing Quantitative Risk Models.
+* Unit 9: Risk, Business Continuity and Disaster Recovery
+* Unit 10: Practical Applications and Issues in DR Implementations
+* Unit 11: Future Trends in Security and Risk Management
+* Unit 12: The Great Debate: What will be the most influential trend in SRM in the next 5 years?
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+You can find all my work for this module in this folder: [Module 2](https://github.com/TobiZeier/UoEO_MSc_EIM/tree/main/Module2_Security_and_Risk_Management)
 
-## Installation
+## Module 3
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
 
-Then clone it to your local machine and run:
 
-```console
-$ bundle
-```
 
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
 
 ## License
 
