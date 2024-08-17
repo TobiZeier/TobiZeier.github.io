@@ -2,7 +2,7 @@
 
 This e-portfolio reflects my learning journey throughout my MSc in Enterprise IT Management at the University of Essex Online (UK).
 
-Please view my [e-portfolio]([https](https://tobizeier.github.io/)).
+Please view my [e-portfolio](https://tobizeier.github.io/).
 
 Please have a look at my [repository](https://github.com/TobiZeier/UoEO_MSc_EIM/tree/main) which contains works from my studies.
 
