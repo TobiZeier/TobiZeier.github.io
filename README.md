@@ -4,6 +4,8 @@ This e-portfolio reflects my learning journey throughout my MSc in Enterprise IT
 
 Please view my [e-portfolio]([https](https://tobizeier.github.io/)).
 
+Please have a look at my [repository](https://github.com/TobiZeier/UoEO_MSc_EIM/tree/main) which contains works from my studies.
+
 ## Module 1 - Launching into Enterprise IT Management
 
 This module contains:
