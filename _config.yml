@@ -16,7 +16,8 @@ timezone: Europe/Zurich
 
 title: Tobi's e-Portfolio # the main title
 
-tagline: MSc Enterprise IT Management at University of Essex Online # it will display as the sub-title
+tagline: MSc Enterprise IT Management
+at University of Essex Online # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   e-Portfolio, eportfolio, student, github, MSc Enterprise IT Management, University of Essex Online
