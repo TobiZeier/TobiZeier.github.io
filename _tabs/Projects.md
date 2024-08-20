@@ -1,5 +1,8 @@
 ---
-layout: projects
-icon: fas fa-archive
+# the default layout is 'page'
+icon: fas fa-terminal
 order: 5
 ---
+
+
+# This is a test
