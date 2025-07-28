@@ -117,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: TobiZeier/giscus # <gh-username>/<repo>
-    repo_id: R_kgDOPUWwvA
-    category: Blog comments
-    category_id: 
+    repo: "TobiZeier/giscus" # <gh-username>/<repo>
+    repo_id: "R_kgDOPUWwvA"
+    category: "Blog comments"
+    category_id: "2"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
@@ -183,7 +183,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: true
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
