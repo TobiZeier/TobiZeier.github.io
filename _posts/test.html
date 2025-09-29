@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Azure Function Tester</title>
+  <style>
+    body {
+      background-color: #121212; /* Dark background */
+      color: #f0f0f0; /* Light text */
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    input, select, button {
+      padding: 8px;
+      margin: 5px 0;
+      border-radius: 4px;
+      border: 1px solid #333;
+      background-color: #1e1e1e;
+      color: #f0f0f0;
+    }
+
+    button {
+      cursor: pointer;
+      border: 1px solid #555;
+    }
+
+    button:hover {
+      background-color: #333;
+    }
+
+    pre {
+      background-color: #1e1e1e;
+      padding: 10px;
+      border-radius: 4px;
+      border: 1px solid #333;
+      overflow-x: auto;
+    }
+
+    h2, h3 {
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+  <h2>🎉 Azure Function Tester 🎉</h2>
+
+  <label for="name">Name:</label>
+  <input type="text" id="name" placeholder="Enter your name"><br><br>
+
+  <label for="mood">Mood:</label>
+  <select id="mood">
+    <option value="happy">Happy</option>
+    <option value="sleepy">Sleepy</option>
+    <option value="confused">Confused</option>
+    <option value="excited">Excited</option>
+  </select><br><br>
+
+  <button onclick="callFunction()">Call Azure Function 🚀</button>
+
+  <h3>Response:</h3>
+  <pre id="responseBox"></pre>
+
+  <script>
+    async function callFunction() {
+      const name = document.getElementById("name").value || "Stranger";
+      const mood = document.getElementById("mood").value;
+
+      // 🔹 Replace this with your Azure Function URL
+      const functionUrl = "https://lab-app-hvgmfbfecqa4cnff.uksouth-01.azurewebsites.net/api/labfaas";
+
+      // Build query string
+      const urlWithParams = `${functionUrl}&name=${encodeURIComponent(name)}&mood=${encodeURIComponent(mood)}`;
+
+      try {
+        const response = await fetch(urlWithParams);
+        const text = await response.text();
+        document.getElementById("responseBox").innerText = text;
+      } catch (error) {
+        document.getElementById("responseBox").innerText = "Error: " + error;
+      }
+    }
+  </script>
+</body>
+</html>
