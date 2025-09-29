@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Custom HTML Page
-permalink: /custom-html/
+title: My HTML+JS Page
+permalink: /my-js-page/
 ---
 
 
@@ -67,6 +67,7 @@ permalink: /custom-html/
   <h3>Response:</h3>
   <pre id="responseBox"></pre>
 
+  {% raw %}
   <script>
     async function callFunction() {
       const name = document.getElementById("name").value || "Stranger";
@@ -87,5 +88,6 @@ permalink: /custom-html/
       }
     }
   </script>
+  {% endraw %}
 </body>
 </html>
