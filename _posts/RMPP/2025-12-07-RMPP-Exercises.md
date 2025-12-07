@@ -15,7 +15,6 @@ toc: true
 
 This site contains exercices and practitces that were part of the Module Research Methods and Professional Practice.
 
-
 ---
 
 # 📚 Table of Contents
@@ -25,7 +24,15 @@ This site contains exercices and practitces that were part of the Module Researc
 ---
 
 ## Unit 7: Hypothesis Testing and Summary Measures Worksheet
-For more details, see the section on [Specific Topic]({% link _posts/2024-04-22-INDM.md %})
 
+This is my first exercise
+
+
+
+---
 
 ## Unit 8: Charts Worksheet and Analysis
+
+
+
+---
