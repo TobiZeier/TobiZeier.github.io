@@ -10,6 +10,7 @@ pin: false
 image: /assets/img/posts/RMPPE.jpeg
 toc: true
 hidden: true
+math: true
 ---
 
 # Research Methods and Professional Practice - Exercises
