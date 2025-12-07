@@ -71,7 +71,7 @@ _Figure 4: Exercise 7.2.2 (University of Essex Online, 2025)_
 - The one-tailed p-value ($0.0038$) is significantly lower than the standard alpha level of $0.05$. Therefore, we reject the null hypothesis. There is strong statistical evidence to conclude that Filter Agent 1 is more effective than Filter Agent 2 at removing impurities.
 
 
-### 7.2.3
+### 7.2.3 - Income Comparison by Gender
 ![Exercise7.2.3](/assets/img/posts/RMPPE/7.2.3.jpeg)
 _Figure 5: Exercise 7.2.3 (University of Essex Online, 2025)_
 
@@ -106,15 +106,17 @@ $$
 - Verdict: We reject the null hypothesis. There is strong evidence to conclude that the population mean income for male cardholders exceeds that of female cardholders.
 
 
-### 7.2.3
-
-
-**Key Findings**
-
-### 7.2.4
-
+### 7.2.4 - Comparison of Filtration Agents
+![Exercise7.2.4](/assets/img/posts/RMPPE/7.2.4.jpeg)
+_Figure 5: Exercise 7.2.4 (University of Essex Online, 2025)_
 
 **Key Findings**
+- Null Hypothesis ($H_0$): $\mu_1 = \mu_2$ (There is no difference in effectiveness between the two agents).
+- Alternative Hypothesis ($H_1$): $\mu_1 \neq \mu_2$ (There is a significant difference in effectiveness).
+- The analysis shows a mean difference of -0.43 units between the two agents. The probability of observing such a difference (or larger) by random chance is approximately 0.8% ($p = 0.0075$).
+- Since $p < 0.05$, we reject the null hypothesis.
+- Verdict: There is a statistically significant difference in the effectiveness of the two filtration agents. Specifically, Agent 1 results in significantly lower impurity levels ($M=8.25$) than Agent 2 ($M=8.68$).
+
 
 ### 7.2.5
 
