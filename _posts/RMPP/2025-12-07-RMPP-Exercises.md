@@ -21,6 +21,13 @@ This site contains exercices and practitces that were part of the Module Researc
 
 # 📚 Table of Contents
 - [Unit 7: Hypothesis Testing and Summary Measures Worksheet](#unit-7-hypothesis-testing-and-summary-measures-worksheet)
+    - [7.1.1 - Descriptive Statistics and Data Exploration](#711b---descriptive-statistics-and-data-exploration)
+    - [7.1.2 - Frequency Distributions](#712b---frequency-distributions)
+    - [7.1.3 - Comparatice Analysis of Distribution](#713b---comparative-analysis-of-distributions)
+    - [7.2.2 - Filtration Agent Comparison Paired t-Test](#722---filtration-agent-comparison-paired-t-test)
+    - [7.2.3 - Income Comparison by Gender](#723---income-comparison-by-gender)
+    - [7.2.4 - Comparison of Filtration Agents](#724---comparison-of-filtration-agents)
+    - [7.2.5 - Gender and Income Comparison](#725---gender-and-income-comparison)
 - [Unit 8: Charts Worksheet and Analysis](#unit-8-charts-worksheet-and-analysis)
 
 ---
@@ -76,6 +83,7 @@ _Figure 4: Exercise 7.2.2 (University of Essex Online, 2025)_
 _Figure 5: Exercise 7.2.3 (University of Essex Online, 2025)_
 
 **Key Findings**
+
 ***Check: Homogeneity of Variance**
 - Null Hypothesis ($H_0$):
 $$
@@ -108,7 +116,7 @@ $$
 
 ### 7.2.4 - Comparison of Filtration Agents
 ![Exercise7.2.4](/assets/img/posts/RMPPE/7.2.4.jpeg)
-_Figure 5: Exercise 7.2.4 (University of Essex Online, 2025)_
+_Figure 6: Exercise 7.2.4 (University of Essex Online, 2025)_
 
 **Key Findings**
 - Null Hypothesis ($H_0$): $\mu_1 = \mu_2$ (There is no difference in effectiveness between the two agents).
@@ -118,11 +126,26 @@ _Figure 5: Exercise 7.2.4 (University of Essex Online, 2025)_
 - Verdict: There is a statistically significant difference in the effectiveness of the two filtration agents. Specifically, Agent 1 results in significantly lower impurity levels ($M=8.25$) than Agent 2 ($M=8.68$).
 
 
-### 7.2.5
-
-
+### 7.2.5 - Gender and Income Comparison
+![Exercise7.2.5](/assets/img/posts/RMPPE/7.2.5.jpeg)
+_Figure 7: Exercise 7.2.5 (University of Essex Online, 2025)_
 
 **Key Findings**
+- Null Hypothesis ($H_0$): 
+$$
+\mu_{\text{male}} \le \mu_{\text{female}}
+$$
+(Male income is less than or equal to female income).
+- Alternative Hypothesis ($H_1$):
+$$
+\mu_{\text{male}} > \mu_{\text{female}}
+$$
+(Male income is strictly higher than female income).
+- The statistical test returns a p-value of 0.0007.
+- Because $p < 0.05$, the result is highly significant. Hence we reject the null hypothesis.
+- Verdict: There is strong statistical evidence to conclude that the population mean income for males exceeds that of females.
+
+
 
 ---
 
