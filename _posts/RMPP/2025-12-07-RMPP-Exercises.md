@@ -84,7 +84,7 @@ _Figure 5: Exercise 7.2.3 (University of Essex Online, 2025)_
 
 **Key Findings**
 
-***Check: Homogeneity of Variance**
+**Check: Homogeneity of Variance**
 - Null Hypothesis ($H_0$):
 $$
 \sigma^2_{\text{male}} = \sigma^2_{\text{female}}
