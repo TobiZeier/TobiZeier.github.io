@@ -14,4 +14,4 @@ toc: true
 # Welcome to my RMPP Exercise Page
 
 
-For more details, see the section on [Specific Topic]({% link _posts/2024-04-22-INDM.md %}#Summary of Achievements)
+For more details, see the section on [Specific Topic]{% link _posts/2024-04-22-INDM.md %}
