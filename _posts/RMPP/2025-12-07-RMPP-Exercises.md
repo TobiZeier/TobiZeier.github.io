@@ -82,16 +82,26 @@ $$
 \sigma^2_{\text{male}} = \sigma^2_{\text{female}}
 $$
 (The variances are equal).
-- Null Hypothesis ($H_0$): $\sigma^2_{\text{male}} = \sigma^2_{\text{female}}$ (The variances are equal).
-- Null Hypothesis ($H_0$): $\sigma^2_{male} = \sigma^2_{female}$ (The variances are equal).
-- Alternative Hypothesis ($H_1$): $\sigma^2_{male} \neq \sigma^2_{female}$ (The variances are different).
+- Alternative Hypothesis ($H_1$):
+$$
+\sigma^2_{\text{male}} \neq \sigma^2_{\text{female}}
+$$
+(The variances are different).
 - F-Statistic: $1.23$
 - P-value: $0.436$
 - Since the p-value ($0.436$) is greater than the significance level ($\alpha = 0.05$), we fail to reject the null hypothesis. Hence we can proceede with the t-Test.
 
 **t-Test**
-- Null Hypothesis ($H_0$): $\mu_{male} \le \mu_{female}$ (Male income is not significantly greater than female income).
-- Alternative Hypothesis ($H_1$): $\mu_{male} > \mu_{female}$ (Male income is significantly greater than female income).
+- Null Hypothesis ($H_0$):
+$$
+\mu_{\text{male}} \le \mu_{\text{female}}
+$$
+(Male income is not significantly greater than female income).
+- Alternative Hypothesis ($H_1$):
+$$
+\mu_{\text{male}} > \mu_{\text{female}}
+$$
+(Male income is significantly greater than female income).
 - The analysis shows that the mean income for males (£52,910) is higher than for females (£44,230). The difference of £8,680 is statistically significant ($t = 3.27$, $p < .001$).
 - Verdict: We reject the null hypothesis. There is strong evidence to conclude that the population mean income for male cardholders exceeds that of female cardholders.
 
