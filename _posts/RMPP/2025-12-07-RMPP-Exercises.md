@@ -29,7 +29,9 @@ This site contains exercices and practitces that were part of the Module Researc
     - [7.2.4 - Comparison of Filtration Agents](#724---comparison-of-filtration-agents)
     - [7.2.5 - Gender and Income Comparison](#725---gender-and-income-comparison)
 - [Unit 8: Charts Worksheet and Analysis](#unit-8-charts-worksheet-and-analysis)
-
+    - [8.1 - Brand Preference by Area](#81---brand-preference-by-area)
+    - [8.2 - Heatland Location A vs B](#82---heathland-location-a-vs-b)
+    - [8.3 - Diet A vs B](#83---diet-a-vs-b)
 ---
 
 ## Unit 7: Hypothesis Testing and Summary Measures Worksheet
@@ -145,12 +147,38 @@ $$
 - Because $p < 0.05$, the result is highly significant. Hence we reject the null hypothesis.
 - Verdict: There is strong statistical evidence to conclude that the population mean income for males exceeds that of females.
 
-
-
 ---
 
 ## Unit 8: Charts Worksheet and Analysis
 
+These exercises introduce the use of bar charts and histograms in Excel to summarise and compare real-world data on brands, habitats and diets.
 
+### 8.1 - Brand Preference by Area
+![Exercise8.1](/assets/img/posts/RMPPE/8.1.jpeg)
+_Figure 8: Exercise 8.1 (University of Essex Online, 2025)_
+
+**Key Findings**
+- The charts show that “Other” is the most preferred brand in both areas, but its dominance is noticeably stronger in Area 1 (60%) than in Area 2 (about 45%).
+- In Area 2, both A and B gain a larger share (just over half of all preferences combined), suggesting a more competitive brand environment where the manufacturer’s brands are more actively chosen and the “Other” category is less overwhelming than in Area 1.
+
+
+### 8.2 - Heathland Location A vs B
+![Exercise8.2](/assets/img/posts/RMPPE/8.2.jpeg)
+_Figure 9: Exercise 8.2 (University of Essex Online, 2025)_
+
+**Key Findings**
+- The heather species is much more established in Location A, where almost half the transects are classed as Abundant and only a small minority as Absent.​
+- In Location B, the species is often absent and only rarely abundant, indicating a considerably poorer level of colonisation.​
+- Overall, the distribution shifts from “mostly abundant” in Location A to “mostly absent or sparse” in Location B, showing a clear ecological contrast between the two heathlands.
+
+
+### 8.3 - Diet A vs B
+![Exercise8.3](/assets/img/posts/RMPPE/8.3.jpeg)
+_Figure 10: Exercise 8.3 (University of Essex Online, 2025)_
+
+**Key Findings**
+- Both diets produce a wide range of outcomes, but Diet A’s weight loss values cluster more tightly around moderate to high losses (around 4–8 kg), suggesting more consistent performance.
+- Diet B shows a more uneven spread, with some participants gaining weight or losing very little and a few achieving quite high losses, indicating greater variability in response.
+- Overall, the histograms suggest that Diet A tends to deliver more reliably positive weight loss, whereas Diet B appears less predictable, with both poorer and very strong individual results.
 
 ---
