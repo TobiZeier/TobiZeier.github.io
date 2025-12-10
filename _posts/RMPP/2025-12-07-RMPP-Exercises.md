@@ -32,6 +32,7 @@ This site contains exercices and practitces that were part of the Module Researc
     - [8.1 - Brand Preference by Area](#81---brand-preference-by-area)
     - [8.2 - Heatland Location A vs B](#82---heathland-location-a-vs-b)
     - [8.3 - Diet A vs B](#83---diet-a-vs-b)
+- [References](#references)
 
 ---
 
@@ -183,3 +184,7 @@ _Figure 10: Exercise 8.3 (University of Essex Online, 2025)_
 - Overall, the histograms suggest that Diet A tends to deliver more reliably positive weight loss, whereas Diet B appears less predictable, with both poorer and very strong individual results.
 
 ---
+
+## References
+- University of Essex Online (2025) *Unit 7: Inferential Statistics and Hypothesis Testing*. Available at: https://www.my-course.co.uk/course/view.php?id=14231&section=13 (Accessed 10 December 2025)
+- University of Essex Online (2025) *Unit 8: Data Analysis and Visualisation*. Available at: https://www.my-course.co.uk/course/view.php?id=14231&section=14 (Accessed 10 December 2025)
