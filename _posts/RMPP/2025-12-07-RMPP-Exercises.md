@@ -32,6 +32,7 @@ This site contains exercices and practitces that were part of the Module Researc
     - [8.1 - Brand Preference by Area](#81---brand-preference-by-area)
     - [8.2 - Heatland Location A vs B](#82---heathland-location-a-vs-b)
     - [8.3 - Diet A vs B](#83---diet-a-vs-b)
+    
 ---
 
 ## Unit 7: Hypothesis Testing and Summary Measures Worksheet
