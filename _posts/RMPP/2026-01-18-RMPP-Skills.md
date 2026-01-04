@@ -7,7 +7,7 @@ author: tobi
 layout: post
 comments: true
 pin: false
-image: /assets/img/posts/RMPPE.jpeg
+image: /assets/img/posts/RMPPS.jpeg
 toc: true
 hidden: true
 math: true
@@ -15,12 +15,18 @@ math: true
 
 # Research Methods and Professional Practice - Professional Skills Matrix, SWOT & Development Plan
 
-This section provides a structured overview of the professional competencies, critical reflections, and planned actions developed through the Research Methods and Professional Practice module. It supports the reflective narrative presented in the final 1000 word [reflection](#swot-analysis).
+This section provides a structured overview of the professional competencies I have developed throughout my MSc Enterprise IT Management programme, alongside a SWOT analysis and planned actions arising from these learnings. It serves as the capstone of my learning journey, bringing together insights and skills acquired across all modules, including research methodologies, enterprise IT, project management, data science, security and risk management and more. This comprehensive synthesis underpins the reflective narrative presented in the final 1000 word [reflection](#swot-analysis).
 
 ---
 
 # 📚 Table of Contents
 - [Professional Skills Matrix](#professional-skills-matrix)
+    - [Skill Level Key](#skill-level-key)
+    - [Professional Skills](#professional-skills)
+    - [Legal and Ethica Skills](#legal-and-ethical-skills)
+    - [Social Skills (inc. Teamwork)](#social-skills-inc-teamwork)
+    - [Technical Skills](#technical-skills)
+    - [Subject Application](#subject-application)
 - [SWOT Analysis](#swot-analysis)
 - [Development Action Plan](#development-action-plan)
 - [References](#references)
@@ -86,7 +92,7 @@ This section provides a structured overview of the professional competencies, cr
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Act in the best interest of the community at large (Social/Community Responsibility) | Proficient | link |
+| Act in the best interest of the community at large (Social/Community<br>Responsibility) | Proficient | link |
 
 #### Teamwork, Leadership and Resilience, Time Management
 
@@ -106,7 +112,7 @@ This section provides a structured overview of the professional competencies, cr
 
 ---
 
-### Technical Skills (Data Science)
+### Technical Skills
 
 #### IT and Digital, Numeracy
 
@@ -145,10 +151,37 @@ This section provides a structured overview of the professional competencies, cr
 
 ## SWOT Analysis
 
+### ✅ Strengths
+
+- abc
+
+---
+
+### ⚠️ Weaknesses
+
+- abc
+
+---
+
+### 🌟 Opportunities
+
+- abc
+
+---
+
+### 🚧 Threats
+
+- abc
 
 ---
 
 ## Development Action Plan
+
+| Goal | Action | Ressources | Success Indicator | Timeline |
+|------|--------|------------|-------------------|----------|
+| 
+|
+|
 
 
 ---
