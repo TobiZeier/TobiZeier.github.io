@@ -1,8 +1,8 @@
 ---
-title: "Research Methods and Professional Practice - Exercises"
-date: 2025-12-07 08:00:00 +0200
-categories: [Modules, RMPP, Training]
-tags: [research, methods, strategies, designs, professional practices, exercises, training]
+title: "Research Methods and Professional Practice - Professional Skills Matrix"
+date: 2026-01-03 08:00:00 +0200
+categories: [Modules, RMPP, Professional Skills Matrix]
+tags: [skills, swot, development plan, skills matrix]
 author: tobi
 layout: post
 comments: true
