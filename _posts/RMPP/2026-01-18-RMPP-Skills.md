@@ -76,7 +76,7 @@ This section provides a structured overview of the professional competencies, cr
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
 | Comply with the letter and spirit of applicable laws | Proficient | link |
-| Maintain privacy and confidentiality of company, co-worker and customer information | Expert | link |
+| Maintain privacy and confidentiality of company, co-worker and customer<br>information | Expert | link |
 
 ---
 
@@ -101,8 +101,8 @@ This section provides a structured overview of the professional competencies, cr
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Create, discuss and deliver strategies for sustainability for all stakeholders (company, community and environment) | Proficient | link |
-| Able to make a decision on a complex matter/scenario using multiple sources of information | Expert | link |
+| Create, discuss and deliver strategies for sustainability for all stakeholders<br>(company, community and environment) | Proficient | link |
+| Able to make a decision on a complex matter/scenario using multiple<br>sources of information | Expert | link |
 
 ---
 
