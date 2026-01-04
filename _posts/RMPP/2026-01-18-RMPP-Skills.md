@@ -47,14 +47,14 @@ This section provides a structured overview of the professional competencies, cr
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
 | Express information effectively to technical and non-technical audiences | Proficient | link |
-| Create documents to aid your communication (reports, diagrams, legal descriptions, plans, manuals and charts) | Expert | link |
+| Create documents to aid your communication (reports, diagrams,<br>legal descriptions, plans, manuals and charts) | Expert | link |
 
 #### Commercial Awareness
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
 | Keep current with tools of the industry, as well as emerging technology | Proficient | link |
-| Seek opportunities to improve and share knowledge of tools and technology that may improve productivity | Expert | link |
+| Seek opportunities to improve and share knowledge of tools and technology<br>that may improve productivity | Expert | link |
 | Participate in scientific and professional organisations | Expert | link |
 | Emphasise quality, customer satisfaction and fair application of policies | Expert | link |
 | Demonstrate familiarity with codes of conduct for the Computing field | Expert | link |
@@ -64,7 +64,7 @@ This section provides a structured overview of the professional competencies, cr
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
 | Critically analyse complex ideas in concepts in the field of Computer Science | Proficient | link |
-| Recognise inconsistencies and gaps in information, and search for additional information when needed | Expert | link |
+| Recognise inconsistencies and gaps in information, and search for additional<br>information when needed | Expert | link |
 | Explore complex real-world problems in a Computing context | Expert | link |
 
 ---
