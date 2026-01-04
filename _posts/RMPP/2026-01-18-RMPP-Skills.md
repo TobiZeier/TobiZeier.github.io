@@ -15,7 +15,7 @@ math: true
 
 # Research Methods and Professional Practice - Professional Skills Matrix, SWOT & Development Plan
 
-This section provides a structured overview of the professional competencies, critical reflections, and planned actions developed through the Research Methods and Professional Practice module. It supports the reflective narrative presented in the final 1000 word [reflection]().
+This section provides a structured overview of the professional competencies, critical reflections, and planned actions developed through the Research Methods and Professional Practice module. It supports the reflective narrative presented in the final 1000 word [reflection](#swot-analysis).
 
 ---
 
