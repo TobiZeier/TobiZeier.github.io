@@ -80,6 +80,69 @@ This section provides a structured overview of the professional competencies, cr
 
 ---
 
+### Social Skills (inc. Teamwork)
+
+#### Cultural Awareness
+
+| Skill | Sill Level | Evidence |
+|-------|------------|----------|
+| Act in the best interest of the community at large (Social/Community Responsibility) | Proficient | link |
+
+#### Teamwork, Leadership and Resilience, Time Management
+
+| Skill | Sill Level | Evidence |
+|-------|------------|----------|
+| Collaborate effectively in diverse teams to achieve team goals | Proficient | link |
+| Meeting team objectives using teamwork skills | Expert | link |
+| Demonstrate skills in leadership and team building | Expert | link |
+| Give and receive constructive feedback | Expert | link |
+
+#### Creativity, Entrepreneurial, Problem Solving, Initiative, Decision Making
+
+| Skill | Sill Level | Evidence |
+|-------|------------|----------|
+| Create, discuss and deliver strategies for sustainability for all stakeholders (company, community and environment) | Proficient | link |
+| Able to make a decision on a complex matter/scenario using multiple sources of information | Expert | link |
+
+---
+
+### Technical Skills (Data Science)
+
+#### IT and Digital, Numeracy
+
+| Skill | Sill Level | Evidence |
+|-------|------------|----------|
+| SQL for database querying | Proficient | link |
+| Python Programming | Expert | link |
+| Gits (repository development and maintenance) | Expert | link |
+| Use of conferencing technologies and Moodle (VLE) | Expert | link |
+| Use of Word Processing tools and Spreadsheets | Expert | link |
+| Effective use of e-library resources | Expert | link |
+
+---
+
+### Subject Application
+
+#### Global Citizen, Teamwork, Leadership, Emotional Intelligence
+
+| Skill | Sill Level | Evidence |
+|-------|------------|----------|
+| Take into account other people's perspectives | Proficient | link |
+| Work constructively with differences in viewpoints | Expert | link |
+| Actively participate in a range of community activities as an informed citizen | Expert | link |
+
+#### Decision Making, Initiative, Emotional Intelligence, Ethical Awareness
+
+| Skill | Sill Level | Evidence |
+|-------|------------|----------|
+| Develop, articulate and clarify your personal values and ethics | Proficient | link |
+
+---
+
+*Adapted from BCS guidelines and Essex graduate*
+
+---
+
 ## SWOT Analysis
 
 
