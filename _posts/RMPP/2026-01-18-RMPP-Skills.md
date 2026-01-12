@@ -29,7 +29,6 @@ This section provides a structured overview of the professional competencies I h
     - [Subject Application](#subject-application)
 - [SWOT Analysis](#swot-analysis)
 - [Development Action Plan](#development-action-plan)
-- [References](#references)
 
 ---
 
@@ -61,8 +60,8 @@ This section provides a structured overview of the professional competencies I h
 |-------|------------|----------|
 | Keep current with tools of the industry, as well as emerging technology | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit12-Assignment.pdf) |
 | Seek opportunities to improve and share knowledge of tools and technology<br>that may improve productivity | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/tree/main/Module6_Cloud_Operations_and_Management/Unit5) |
-| Participate in scientific and professional organisations | Expert | link |
-| Emphasise quality, customer satisfaction and fair application of policies | Expert | link |
+| Participate in scientific and professional organisations | Proficient |  |
+| Emphasise quality, customer satisfaction and fair application of policies | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module3_Information_Technology_Service_Management/Assignment2/TobiasZeierCMDB_Implementation-021224.pdf   ) |
 | Demonstrate familiarity with codes of conduct for the Computing field | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module7_Research_Methods_and_Professional_Practice/Unit4-CaseStudy.pdf) |
 
 #### Subject Understanding, Research, Critical Thinking, Time Management
@@ -151,42 +150,55 @@ This section provides a structured overview of the professional competencies I h
 
 ## SWOT Analysis
 
+As an IT Team Lead in the securities trading division of a Swiss banking institution, I balance operational leadership responsibilities with academic development through my MSc in Enterprise IT Management at the University of Essex Online. My dual role provides unique insights into implementing enterprise IT governance frameworks while navigating the fast-paced, highly regulated environment of financial services technology. This SWOT analysis examines my professional capabilities and development areas through the lens of both banking IT leadership and academic research excellence.
+
 ### ✅ Strengths
 
-- abc
+- Reflective Practice and Critical Thinking in High-Pressure Trading Environments
+- Collaborative Leadership with Technical Proficiency
+- Research Methods Foundation for Evidence-Based Decision Making
+- Academic-Practitioner Bridge for Innovation
+- Framework Implementation Experience (such as SAFe)
 
 ---
 
 ### ⚠️ Weaknesses
 
-- abc
+- Statistical Modelling Gap in Trading Technology
+- Entrepreneurial Exposure in FinTech Innovation
+- Time Management Under Peak Trading Periods
+- Knowledge Gap in AI Governance
+- Balancing Academic Rigor with Operational Demands
 
 ---
 
 ### 🌟 Opportunities
 
-- abc
+- ISO 42001 Implementation in the context of Leadership in Banking
+- Securities Trading Cybersecurity Specialisation
+- Academic-Industry Research Publication
+- Open-Source Contribution to FinTech/Compliance Tools
+- Digital Transformation Leadership Programme
 
 ---
 
 ### 🚧 Threats
 
-- abc
+- Regulatory and Technology Evolution Outpacing Learning
+- Career-Academic-Personal Balance and Burnout Risk
+- Ethical Complexity in AI Trading Systems
+- Vendor Lock-in and Technology Debt in Legacy Banking
+- Competition from FinTech Talent and Consultancies
 
 ---
 
 ## Development Action Plan
 
-| Goal | Action | Ressources | Success Indicator | Timeline |
-|------|--------|------------|-------------------|----------|
-| 
-|
-|
-
-
----
-
-## References
-
+| Goal | Action | Resources | Success Indicator | Timeline |
+|------|--------|-----------|-------------------|----------|
+| **Develop Statistical Modelling Skills for Trading Systems** | Complete online Python for Data Analysis course (2-3 hours/week); Apply learning to one trading data analysis project at work | Coursera/edX Python course; Work trading data access; Jupyter Notebook | Completed course certificate; Successfully conduct one quantitative analysis of trading patterns or system performance metrics | 6 months |
+| **Gain ISO 42001 AI Governance Knowledge** | Read ISO 42001 standard documentation; Complete 1 online webinar on AI governance in banking; Draft initial AI governance framework proposal for team | ISO 42001 standard (free access); Banking AI governance webinars; MSc research time allocation | Deliver presentation to management on ISO 42001 applicability; Draft framework document with 5-10 key controls | 4 months |
+| **Expand Professional Network in Securities Trading IT** | Attend 2 virtual cybersecurity/FinTech conferences; Join one professional body (BCS/ISC2); Connect with 10 relevant professionals on LinkedIn monthly | Conference registrations (virtual for time flexibility); Professional membership fee (£200-300); LinkedIn Premium (optional) | Attended 2 conferences with documented key learnings; Active membership with CPD logged; Network grown by 60+ targeted connections | 12 months |
+| **Publish Academic-Industry Research** | Leverage MSc dissertation on ISO implementation in banking; Submit one paper to industry journal or conference; Present findings internally | MSc dissertation research; University library access; 2-4 hours/month writing time; Internal presentation slot | One paper submitted for publication; One internal knowledge-sharing presentation delivered; Research added to professional portfolio | 9 months |
 
 ---
