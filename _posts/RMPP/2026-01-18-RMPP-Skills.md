@@ -52,26 +52,26 @@ This section provides a structured overview of the professional competencies I h
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Express information effectively to technical and non-technical audiences | Proficient | link |
-| Create documents to aid your communication (reports, diagrams,<br>legal descriptions, plans, manuals and charts) | Expert | link |
+| Express information effectively to technical and non-technical audiences | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit11-Assignment.pdf) |
+| Create documents to aid your communication (reports, diagrams,<br>legal descriptions, plans, manuals and charts) | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module5_Into_Data_Science/TobiasZeierEnterpriseData140725.pdf) |
 
 #### Commercial Awareness
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Keep current with tools of the industry, as well as emerging technology | Proficient | link |
-| Seek opportunities to improve and share knowledge of tools and technology<br>that may improve productivity | Expert | link |
+| Keep current with tools of the industry, as well as emerging technology | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit12-Assignment.pdf) |
+| Seek opportunities to improve and share knowledge of tools and technology<br>that may improve productivity | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/tree/main/Module6_Cloud_Operations_and_Management/Unit5) |
 | Participate in scientific and professional organisations | Expert | link |
 | Emphasise quality, customer satisfaction and fair application of policies | Expert | link |
-| Demonstrate familiarity with codes of conduct for the Computing field | Expert | link |
+| Demonstrate familiarity with codes of conduct for the Computing field | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module7_Research_Methods_and_Professional_Practice/Unit4-CaseStudy.pdf) |
 
 #### Subject Understanding, Research, Critical Thinking, Time Management
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Critically analyse complex ideas in concepts in the field of Computer Science | Proficient | link |
-| Recognise inconsistencies and gaps in information, and search for additional<br>information when needed | Expert | link |
-| Explore complex real-world problems in a Computing context | Expert | link |
+| Critically analyse complex ideas in concepts in the field of Computer Science | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module5_Into_Data_Science/Unit6-EvaluationSubmission.pdf) |
+| Recognise inconsistencies and gaps in information, and search for additional<br>information when needed | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module2_Security_and_Risk_Management/Collaborative%20Learning%20Discussion.pdf) |
+| Explore complex real-world problems in a Computing context | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module2_Security_and_Risk_Management/Assignment2/TobiasZeierExecutiveSummary-141024.pdf) |
 
 ---
 
@@ -81,8 +81,8 @@ This section provides a structured overview of the professional competencies I h
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Comply with the letter and spirit of applicable laws | Proficient | link |
-| Maintain privacy and confidentiality of company, co-worker and customer<br>information | Expert | link |
+| Comply with the letter and spirit of applicable laws | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module2_Security_and_Risk_Management/Unit5-CaseStudy.pdf) |
+| Maintain privacy and confidentiality of company, co-worker and customer<br>information | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit12-Assignment.pdf) |
 
 ---
 
@@ -92,23 +92,23 @@ This section provides a structured overview of the professional competencies I h
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Act in the best interest of the community at large (Social/Community<br>Responsibility) | Proficient | link |
+| Act in the best interest of the community at large (Social/Community<br>Responsibility) | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit6/GoupB-Assignment250908.pdf) |
 
 #### Teamwork, Leadership and Resilience, Time Management
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Collaborate effectively in diverse teams to achieve team goals | Proficient | link |
-| Meeting team objectives using teamwork skills | Expert | link |
-| Demonstrate skills in leadership and team building | Expert | link |
-| Give and receive constructive feedback | Expert | link |
+| Collaborate effectively in diverse teams to achieve team goals | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module2_Security_and_Risk_Management/GroupAssignment/Group%202%20Contract.docx) |
+| Meeting team objectives using teamwork skills | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit6/GoupB-Assignment250908.pdf) |
+| Demonstrate skills in leadership and team building | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module4_IT_Project_Management/Group1Report-160225.pdf) |
+| Give and receive constructive feedback | Expert |  |
 
 #### Creativity, Entrepreneurial, Problem Solving, Initiative, Decision Making
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Create, discuss and deliver strategies for sustainability for all stakeholders<br>(company, community and environment) | Proficient | link |
-| Able to make a decision on a complex matter/scenario using multiple<br>sources of information | Expert | link |
+| Create, discuss and deliver strategies for sustainability for all stakeholders<br>(company, community and environment) | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit6/GoupB-Assignment250908.pdf) |
+| Able to make a decision on a complex matter/scenario using multiple<br>sources of information | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module5_Into_Data_Science/Unit6-EvaluationSubmission.pdf) |
 
 ---
 
@@ -118,12 +118,12 @@ This section provides a structured overview of the professional competencies I h
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| SQL for database querying | Proficient | link |
-| Python Programming | Expert | link |
-| Gits (repository development and maintenance) | Expert | link |
-| Use of conferencing technologies and Moodle (VLE) | Expert | link |
-| Use of Word Processing tools and Spreadsheets | Expert | link |
-| Effective use of e-library resources | Expert | link |
+| SQL for database querying | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module5_Into_Data_Science/Unit12-ERPModel.pdf) |
+| Python Programming | Trained | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module1_Launching_into_Enterprise_IT_Management/Assignment2/TobiasZeier-16-6-24.pdf) |
+| Gits (repository development and maintenance) | Proficient | [link](https://github.com/TobiZeier) |
+| Use of conferencing technologies and Moodle (VLE) | Expert |  |
+| Use of Word Processing tools and Spreadsheets | Expert | [link](https://tobizeier.github.io/posts/RMPP-Exercises/) |
+| Effective use of e-library resources | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module7_Research_Methods_and_Professional_Practice/TobiasZeierLiteraturReview081225.pdf) |
 
 ---
 
@@ -133,15 +133,15 @@ This section provides a structured overview of the professional competencies I h
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Take into account other people's perspectives | Proficient | link |
-| Work constructively with differences in viewpoints | Expert | link |
-| Actively participate in a range of community activities as an informed citizen | Expert | link |
+| Take into account other people's perspectives | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module5_Into_Data_Science/TobiasZeierDataReport050625.pdf) |
+| Work constructively with differences in viewpoints | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module2_Security_and_Risk_Management/GroupAssignment/Risk%20Assessment%20Pampered%20Pets.docx) |
+| Actively participate in a range of community activities as an informed citizen | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit3-ForumPost.pdf) |
 
 #### Decision Making, Initiative, Emotional Intelligence, Ethical Awareness
 
 | Skill | Sill Level | Evidence |
 |-------|------------|----------|
-| Develop, articulate and clarify your personal values and ethics | Proficient | link |
+| Develop, articulate and clarify your personal values and ethics | Proficient | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module6_Cloud_Operations_and_Management/Unit12-Assignment.pdf) |
 
 ---
 
