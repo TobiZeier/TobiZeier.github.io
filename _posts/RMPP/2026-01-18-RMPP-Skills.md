@@ -152,7 +152,7 @@ This section provides a structured overview of the professional competencies I h
 
 As an IT Team Lead in the securities trading division of a Swiss banking institution, I balance operational leadership responsibilities with academic development through my MSc in Enterprise IT Management at the University of Essex Online. My dual role provides unique insights into implementing enterprise IT governance frameworks while navigating the fast-paced, highly regulated environment of financial services technology. This SWOT analysis examines my professional capabilities and development areas through the lens of both banking IT leadership and academic research excellence.
 
-### ✅ Strengths
+### 💪 Strengths
 
 - Reflective Practice and Critical Thinking in High-Pressure Trading Environments
 - Collaborative Leadership with Technical Proficiency
@@ -162,7 +162,7 @@ As an IT Team Lead in the securities trading division of a Swiss banking institu
 
 ---
 
-### ⚠️ Weaknesses
+### 🩹 Weaknesses
 
 - Statistical Modelling Gap in Trading Technology
 - Entrepreneurial Exposure in FinTech Innovation
@@ -182,7 +182,7 @@ As an IT Team Lead in the securities trading division of a Swiss banking institu
 
 ---
 
-### 🚧 Threats
+### ⚠️ Threats
 
 - Regulatory and Technology Evolution Outpacing Learning
 - Career-Academic-Personal Balance and Burnout Risk
