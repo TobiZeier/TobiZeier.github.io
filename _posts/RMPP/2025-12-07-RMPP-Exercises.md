@@ -1,7 +1,7 @@
 ---
 title: "Research Methods and Professional Practice - Exercises"
 date: 2025-12-07 08:00:00 +0200
-categories: [Modules, RMPP, Training]
+categories: [Modules, Research Methods and Professional Practice]
 tags: [research, methods, strategies, designs, professional practices, exercises, training]
 author: tobi
 layout: post
@@ -13,26 +13,7 @@ hidden: true
 math: true
 ---
 
-# Research Methods and Professional Practice - Exercises
-
-This site contains exercices and practitces that were part of the Module Research Methods and Professional Practice.
-
----
-
-# 📚 Table of Contents
-- [Unit 7: Hypothesis Testing and Summary Measures Worksheet](#unit-7-hypothesis-testing-and-summary-measures-worksheet)
-    - [7.1.1 - Descriptive Statistics and Data Exploration](#711b---descriptive-statistics-and-data-exploration)
-    - [7.1.2 - Frequency Distributions](#712b---frequency-distributions)
-    - [7.1.3 - Comparatice Analysis of Distribution](#713b---comparative-analysis-of-distributions)
-    - [7.2.2 - Filtration Agent Comparison Paired t-Test](#722---filtration-agent-comparison-paired-t-test)
-    - [7.2.3 - Income Comparison by Gender](#723---income-comparison-by-gender)
-    - [7.2.4 - Comparison of Filtration Agents](#724---comparison-of-filtration-agents)
-    - [7.2.5 - Gender and Income Comparison](#725---gender-and-income-comparison)
-- [Unit 8: Charts Worksheet and Analysis](#unit-8-charts-worksheet-and-analysis)
-    - [8.1 - Brand Preference by Area](#81---brand-preference-by-area)
-    - [8.2 - Heatland Location A vs B](#82---heathland-location-a-vs-b)
-    - [8.3 - Diet A vs B](#83---diet-a-vs-b)
-- [References](#references)
+This page contains the exercises and practice work from the Research Methods and Professional Practice module.
 
 ---
 

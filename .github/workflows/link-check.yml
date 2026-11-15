@@ -1,0 +1,36 @@
+name: "Weekly Link Check"
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll b -d _site
+        env:
+          JEKYLL_ENV: "production"
+
+      # Checks external links too (GitHub PDFs in UoEO_MSc_EIM and MScProject).
+      # LinkedIn blocks bots (status 999), so it is ignored.
+      - name: Check all links
+        run: |
+          bundle exec htmlproofer _site \
+            --ignore-status-codes "0,429,999" \
+            --ignore-urls "/linkedin\.com/,/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"

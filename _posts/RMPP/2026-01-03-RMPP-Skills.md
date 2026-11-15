@@ -1,7 +1,7 @@
 ---
 title: "Research Methods and Professional Practice - Professional Skills Matrix"
 date: 2026-01-03 08:00:00 +0200
-categories: [Modules, RMPP, Professional Skills Matrix]
+categories: [Modules, Research Methods and Professional Practice]
 tags: [skills, swot, development plan, skills matrix]
 author: tobi
 layout: post
@@ -13,22 +13,7 @@ hidden: true
 math: true
 ---
 
-# Research Methods and Professional Practice - Professional Skills Matrix, SWOT & Development Plan
-
 This section provides a structured overview of the professional competencies I have developed throughout my MSc Enterprise IT Management programme, alongside a SWOT analysis and planned actions arising from these learnings. It serves as the capstone of my learning journey, bringing together insights and skills acquired across all modules, including research methodologies, enterprise IT, project management, data science, security and risk management and more. This comprehensive synthesis underpins the reflective narrative presented in the final 1000 word [reflection](#swot-analysis).
-
----
-
-# 📚 Table of Contents
-- [Professional Skills Matrix](#professional-skills-matrix)
-    - [Skill Level Key](#skill-level-key)
-    - [Professional Skills](#professional-skills)
-    - [Legal and Ethica Skills](#legal-and-ethical-skills)
-    - [Social Skills (inc. Teamwork)](#social-skills-inc-teamwork)
-    - [Technical Skills](#technical-skills)
-    - [Subject Application](#subject-application)
-- [SWOT Analysis](#swot-analysis)
-- [Development Action Plan](#development-action-plan)
 
 ---
 
@@ -121,7 +106,7 @@ This section provides a structured overview of the professional competencies I h
 | Python Programming | Trained | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module1_Launching_into_Enterprise_IT_Management/Assignment2/TobiasZeier-16-6-24.pdf) |
 | Gits (repository development and maintenance) | Proficient | [link](https://github.com/TobiZeier) |
 | Use of conferencing technologies and Moodle (VLE) | Expert |  |
-| Use of Word Processing tools and Spreadsheets | Expert | [link](https://tobizeier.github.io/posts/RMPP-Exercises/) |
+| Use of Word Processing tools and Spreadsheets | Expert | [link]({% link _posts/RMPP/2025-12-07-RMPP-Exercises.md %}) |
 | Effective use of e-library resources | Expert | [link](https://github.com/TobiZeier/UoEO_MSc_EIM/blob/main/Module7_Research_Methods_and_Professional_Practice/TobiasZeierLiteraturReview081225.pdf) |
 
 ---
