@@ -28,9 +28,11 @@ jobs:
           JEKYLL_ENV: "production"
 
       # Checks external links too (GitHub PDFs in UoEO_MSc_EIM and MScProject).
-      # LinkedIn blocks bots (status 999), so it is ignored.
+      # Ignored: LinkedIn (blocks bots with status 999); the theme's bare Google Fonts
+      # preconnect origins (not pages, so they return 404); doi.org links, which resolve to
+      # publishers such as SAGE that answer bots with 403.
       - name: Check all links
         run: |
           bundle exec htmlproofer _site \
             --ignore-status-codes "0,429,999" \
-            --ignore-urls "/linkedin\.com/,/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+            --ignore-urls "/linkedin\.com/,/^https:\/\/fonts\.(googleapis|gstatic)\.com\/?$/,/doi\.org\//,/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
