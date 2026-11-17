@@ -6,7 +6,7 @@ order: 4
 
 Hi there,
 
-I'm Tobi, a team lead at a Swiss bank, where I currently lead two DevOps teams in the securities trading division.
+I'm Tobi, a team lead at a Swiss bank, where I currently lead three DevOps teams in the securities trading division.
 
 From 2024 to 2026 I studied part-time for an MSc in Enterprise IT Management at the University of Essex Online, finishing with a dissertation on [measuring technical debt in mission-critical trading systems](https://github.com/TobiZeier/MScProject/blob/main/MScProject/Measuring-Technical-Debt-in-Mission-Critical-Trading-Systems.pdf). I started this site as the e-Portfolio for the programme. It documents each module, my assignments and my reflections along the way. If you're new here, the [Start here]({% link _posts/2026-11-15-start-here.md %}) post is the best overview.
 
