@@ -1,0 +1,22 @@
+<!-- The Footer (overrides the Chirpy theme's footer) -->
+
+<footer
+  aria-label="Site Info"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
+>
+  <p>
+    {{- '©' }}
+    <time>{{ 'now' | date: '%Y' }}</time>
+    <a href="{{ '/about/' | relative_url }}">{{ site.social.name }}</a>.
+    Posts licensed under
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>.
+  </p>
+
+  <p>
+    MSc Enterprise IT Management, University of Essex Online ·
+    <a href="https://github.com/TobiZeier/TobiZeier.github.io" target="_blank" rel="noopener">Source</a>
+  </p>
+</footer>

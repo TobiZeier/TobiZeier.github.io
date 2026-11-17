@@ -1,8 +1,9 @@
 ---
 title: "Research Methods and Professional Practice - Exercises"
+description: "Statistics exercises from Research Methods and Professional Practice: summary measures, hypothesis testing and charts in Excel."
 date: 2025-12-07 08:00:00 +0200
 categories: [Modules, Research Methods and Professional Practice]
-tags: [research, methods, strategies, designs, professional practices, exercises, training]
+tags: [research methods, statistics, excel]
 author: tobi
 layout: post
 comments: true

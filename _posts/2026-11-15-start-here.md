@@ -1,13 +1,14 @@
 ---
 title: "Start Here: My MSc in Enterprise IT Management"
+description: "Overview of my MSc in Enterprise IT Management (2024–2026): the dissertation on technical debt, all nine modules with their grades, and where to find the work."
 date: 2026-11-15 08:00:00 +0100
 categories: [Overview]
-tags: [e-portfolio, msc, overview]
+tags: [overview, dissertation, technical debt]
 author: tobi
 layout: post
 comments: false
 pin: true
-image: /assets/img/posts/CSPROJ.jpeg
+image: /assets/img/posts/OVERVIEW.jpeg
 toc: true
 ---
 
@@ -48,6 +49,6 @@ Read more in the [MSc Computing Project]({% link _posts/2026-01-27-CSPROJ.md %})
 
 ## 🗂 More
 
-- [Projects]({% link _tabs/Projects.md %}): the main pieces of practical work in one place.
+- [Projects]({% link _tabs/projects.md %}): the main pieces of practical work in one place.
 - [UoEO_MSc_EIM repository](https://github.com/TobiZeier/UoEO_MSc_EIM): all submissions from Modules 1–8.
 - [MScProject repository](https://github.com/TobiZeier/MScProject): dissertation source, code and presentation.

@@ -1,8 +1,9 @@
 ---
 title: "Research Methods and Professional Practice - Professional Skills Matrix"
+description: "My professional skills matrix at the end of the MSc, with a SWOT analysis and a development plan."
 date: 2026-01-03 08:00:00 +0200
 categories: [Modules, Research Methods and Professional Practice]
-tags: [skills, swot, development plan, skills matrix]
+tags: [professional development, skills matrix, swot]
 author: tobi
 layout: post
 comments: true
